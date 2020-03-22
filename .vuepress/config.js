@@ -1,6 +1,6 @@
 module.exports = {
   base: "/",
-  title: "OC-JobManager",
+  title: "JobManager",
   description: "Job Portal for OctoberCMS",
   themeConfig: {
     sidebar: [
@@ -19,6 +19,9 @@ module.exports = {
         text: "Marketplace",
         link: "https://octobercms.com/plugin/fytinnovations-jobmanager"
       }
-    ]
+    ],
+    docsRepo: "fytinnovations/oc-jobmanager",
+    editLinks: true,
+    editLinkText: "Help us improve this page!"
   }
 };
