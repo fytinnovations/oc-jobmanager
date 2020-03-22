@@ -1,6 +1,5 @@
 ---
 sidebarDepth: 3
-next: /getting-started/theme-setup
 ---
 
 # JobList Component

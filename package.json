@@ -1,0 +1,25 @@
+{
+  "name": "oc-jobmanager",
+  "version": "1.0.0",
+  "description": "Documentation for OC-Jobmanager",
+  "main": "index.js",
+  "dependencies": {
+    "vuepress": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fytinnovations/oc-jobmanager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fytinnovations/oc-jobmanager/issues"
+  },
+  "homepage": "https://github.com/fytinnovations/oc-jobmanager#readme"
+}
