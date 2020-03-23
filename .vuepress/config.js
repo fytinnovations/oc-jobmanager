@@ -10,7 +10,10 @@ module.exports = {
       },
       {
         title: "Components",
-        children: ["/components/joblist"]
+        children: [
+          "/components/joblist",
+          "/components/jobdetails"
+        ]
       }
     ],
     nav: [
