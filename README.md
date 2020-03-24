@@ -3,9 +3,9 @@ prev: false
 next: /getting-started/installation.md
 ---
 
-# JobManager
+# O-cms Careers
 
-> Job Portal for October CMS
+> Carrers Plugin for October CMS
 
 This is the official documentation website for the [oc-jobmanager](https://github.com/fytinnovations/oc-jobmanager) for October CMS.
 
